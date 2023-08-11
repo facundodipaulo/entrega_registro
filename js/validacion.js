@@ -40,3 +40,4 @@ function showAlertError() {
     regBtn.addEventListener("click", function() {
         registro();
     })
+
